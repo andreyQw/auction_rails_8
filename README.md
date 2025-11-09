@@ -6,12 +6,23 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+```
+$ ruby -v
+$ ruby 3.3.10
+```
 
 * System dependencies
+```
+$ postgres --version
+$ PostgreSQL 16.10
+```
 
 * Configuration
 
 * Database creation
+```
+$ rails db:create
+```
 
 * Database initialization
 
